@@ -1,5 +1,5 @@
 # Personal-Portfolio-Website-
-personal protflio website provides information about my work , my skills , my project etc. It is the way to brand myself .The technology which i've used in this project are Html, Css and Javascript.
+personal protflio website provides information about my work , my skills , my project etc. It is the way to brand myself .The technology which i've used in this project are Html, Css.
 Few pictures of my website:
 ![image](https://user-images.githubusercontent.com/80303169/209311996-f3ba2655-65ba-405a-b232-e196cfcb38a5.png)
 ![image](https://user-images.githubusercontent.com/80303169/209312027-64240617-7460-49a9-beb4-9d5b031165e6.png)
